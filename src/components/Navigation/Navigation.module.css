@@ -1,0 +1,33 @@
+.nav{
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+  padding: 1vw 0vw;
+}
+
+.nav a{
+  display: flex;
+  font-size: 1.3vw;
+}
+
+.link{
+  color: ghostwhite
+}
+
+.isActive{
+  color: rgb(140, 0, 255);
+}
+
+.loginAndRegisterBlock{
+  display: flex;
+  gap: 2vw;
+}
+
+.navContainer{
+  width: 100%;
+  background: rgb(160, 160, 160);
+  display: flex;
+  justify-content: center;
+}
